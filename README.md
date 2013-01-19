@@ -223,7 +223,15 @@ takes, of course, is writing. Writing on a printer.
 40 (Chuck Norris) (roundhouse kicking) (a pair of boots)
 --
 
-According to official records, on March 10, 1940, Chuck Norris was born. He uses his signature move - the roundhouse kick - on a pair of ugly boots to send them into stationary orbit around the moon.
+According to official records, on March 10, 1940, [Chuck Norris] [40-0] was
+born. He uses his signature move - the [roundhouse kick] [40-1] - on a pair of
+ugly boots to send them into stationary orbit around the moon.
+
+[40-0]: http://en.wikipedia.org/wiki/Chuck_Norris
+        "Chuck Norris - Wikipedia"
+
+[40-1]: http://en.wikipedia.org/wiki/Roundhouse_kick
+        "Roundhouse kick - Wikpedia"
 
 41
 --
@@ -333,12 +341,39 @@ According to official records, on March 10, 1940, Chuck Norris was born. He uses
 76 (Barney Stinson) (high fiving) (a suit)
 --
 
-Barney Stinson is the breakout character from the show "How I Met Your Mother". The suit is because of one of his catchphrases "suit up!". The same with the high five; can be swapped with fistbump. 76 is the number of plays in The Playbook.
+[Barney Stinson] [76-0] is the breakout character from the show [How I Met Your
+Mother] [76-1]. The suit is because of one of his catchphrases "suit up!". The
+same with the high five; can be swapped with fistbump. 76 is the number of plays
+in [The Playbook] [76-2].
+
+[76-0]: http://en.wikipedia.org/wiki/Barney_Stinson
+        "Barney Stinson - Wikipedia"
+
+[76-1]: http://www.imdb.com/title/tt0460649/
+        "How I Met Your Mother - IMDb"
+
+[76-2]: http://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother)
+        "The Playbook (How I Met Your Mother) - Wikipedia"
 
 77 (Yoda) (using Force Pull on) (a lightsaber)
 --
 
-On May 25, 1977, "Star Wars Episode IV: A New Hope" was released in the movie theaters. One of the most known characters from this movie is of course the little green Jedi Yoda. Here we see him using the Force to pull his trusty lightsaber towards him to ward off his attacker!
+On May 25, 1977, [Star Wars Episode IV: A New Hope] [77-0] was released in the
+movie theaters. One of the most known characters from this movie is of course
+the little green [Jedi] [77-1] [Yoda] [77-2]. Here we see him using the Force to
+pull his trusty [lightsaber] [77-3] towards him to ward off his attacker!
+
+[77-0]: http://www.imdb.com/title/tt0076759/
+        "Star Wars - IMDb"
+
+[77-1]: http://en.wikipedia.org/wiki/Jedi
+        "Jedi - Wikipedia"
+
+[77-2]: http://en.wikipedia.org/wiki/Yoda
+        "Yoda - Wikipedia"
+
+[77-3]: http://en.wikipedia.org/wiki/Lightsaber
+        "Lightsaber - Wikpedia"
 
 78
 --
@@ -355,7 +390,22 @@ On May 25, 1977, "Star Wars Episode IV: A New Hope" was released in the movie th
 82 (Michael Jackson) (moonwalking with) (a white glove)
 --
 
-On November 30, 1982, Michael Jackson released his famous album "Thriller". On this album was the song "Billie Jean", which featured the moonwalk. Imagine Michael doing this dancemove while wearing his distinctive diamond-sparkling white glove.
+On November 30, 1982, [Michael Jackson] [82-0] released his famous album
+[Thriller] [82-1]. On this album was the song [Billie Jean] [82-2], which
+featured the [moonwalk] [82-3]. Imagine Michael doing this dancemove while
+wearing his distinctive diamond-sparkling white glove.
+
+[82-0]: http://en.wikipedia.org/wiki/Michael_Jackson
+        "Michael Jackson - Wikipedia"
+
+[82-1]: http://en.wikipedia.org/wiki/Thriller_(song)
+        "Thriller (song) - Wikipedia"
+
+[82-2]: http://en.wikipedia.org/wiki/Billie_Jean
+        "Billie Jean - Wikipedia"
+
+[82-3]: http://en.wikipedia.org/wiki/Moonwalk_(dance)
+        "Moonwalk (dance) - Wikipedia"
 
 83
 --
